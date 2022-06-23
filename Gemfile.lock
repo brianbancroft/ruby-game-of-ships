@@ -2,12 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     colorize (0.8.1)
+    curses (1.4.4)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
   colorize
+  curses (~> 1.2, >= 1.2.4)
 
 BUNDLED WITH
    2.3.3
